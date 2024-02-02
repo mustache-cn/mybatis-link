@@ -4,12 +4,6 @@
     <name>Mybatis Link</name>
     <vendor email="steven@mustache.com.cn" url="https://mustache.com.cn">Mustache</vendor>
 
-    <description>
-        <![CDATA[
-        Mybatis Link is a plugin that can quickly jump between Mybatis Xml Mapper and JAVA Mapper methods. Follow simple principles, only for quick jump, to help developers improve development efficiency.<br/>
-    ]]>
-    </description>
-
     <depends>com.intellij.modules.platform</depends>
     <depends>com.intellij.java</depends>
 
