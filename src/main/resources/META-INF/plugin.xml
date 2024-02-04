@@ -8,7 +8,7 @@
     <depends>com.intellij.java</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <dom.fileMetaData implementation="cn.com.mustache.plugins.mybatis.link.description.MapperDescription"
+        <dom.fileMetaData implementation="cn.com.mustache.plugins.mybatis.link.description.MybatisMapperFileDescription"
                           rootTagName="mapper"/>
         <codeInsight.lineMarkerProvider language="JAVA"
                                         implementationClass="cn.com.mustache.plugins.mybatis.link.provider.MapperLineMarkerProvider"/>
