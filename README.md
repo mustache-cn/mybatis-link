@@ -15,10 +15,12 @@ Quick jump plug-in can greatly improve the development efficiency. It helps deve
 
 ## Features
 
-- [x] Support for Java 17+, IDEA 2022.3+.
+- [x] Support for IDEA 2022.3+.
 - [x] Supports Java languages. Supports.
 - [x] Quickly jump from code to mapper.
 - [x] Quickly return the code from mapper.
+
+<!-- Plugin description end -->
 
 ## Plugin running screenshot
 
@@ -30,7 +32,6 @@ Quick jump plug-in can greatly improve the development efficiency. It helps deve
 
 ![statement-mapper.png](https://github.com/mustache-cn/mybatis-link/assets/3905303/2d612e92-021e-4b49-b684-89dd21e2bd77)
 
-<!-- Plugin description end -->
 
 ## Installation
 
